@@ -1,4 +1,4 @@
-# Music Recommendation System with Flask
+# Music Recommendation System Machine Learning Project with Flask
 
 This project is a music recommendation system built using machine learning techniques and deployed with Flask. The system recommends songs based on their similarity to the user's preferences, utilizing natural language processing (NLP) and cosine similarity.
 
